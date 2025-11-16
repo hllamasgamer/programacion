@@ -2,4 +2,4 @@
 
 Repositorio de programas en C
 
-Hugo Llamas
+Se ha añadido el archivo actividad1.c
