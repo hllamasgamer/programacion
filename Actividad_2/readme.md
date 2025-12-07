@@ -10,11 +10,9 @@ El programa muestra un menú, permite iniciar una partida, la cual crea los tabl
 - Colocación de naves en posiciones fijas.
 - Visualización completa del tablero del jugador y del oponente.
 
-## Compilación y ejecución
+## Compilación
 Windows:
 gcc actividad2.c -o actividad2.exe
-.\actividad2.exe
 
 Mac:
 cc actividad2.c .o actividad2
-./actividad2
