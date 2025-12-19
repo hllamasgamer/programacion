@@ -1,4 +1,4 @@
-# Hundir la Flota – Actividad 2 (Programación en C)
+# Hundir la Flota – Actividad 2 (Fundamentos de la Programación)
 
 Este proyecto implementa una versión inicial del juego *Hundir la Flota* 
 El programa muestra un menú, permite iniciar una partida, la cual crea los tableros de ambos jugadores (jugador y oponente), coloca las naves en posiciones fijas y muestra los tableros por pantalla.
@@ -15,4 +15,4 @@ Windows:
 gcc actividad2.c -o actividad2.exe
 
 Mac:
-cc actividad2.c .o actividad2
+cc actividad2.c -o actividad2
