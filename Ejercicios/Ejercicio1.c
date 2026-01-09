@@ -12,6 +12,7 @@ int main() {
     float suma = numero1 + numero2 + numero3;
     float promedio = suma/3;
     printf("El promedio es: %.2f\n", promedio);
+    printf("Presione Enter para salir...");
     getchar();
     return 0;
 
