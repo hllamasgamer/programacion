@@ -14,6 +14,7 @@ int main() {
     printf("El promedio es: %.2f\n", promedio);
     printf("Presione Enter para salir...");
     getchar();
+    getchar();
     return 0;
 
 }
