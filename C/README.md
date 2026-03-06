@@ -1,6 +1,6 @@
 # Repositorio de Fundamentos de la Programación
 
-En este repositorio se hubicarán los archivos de actividades y ejercicios de la asignatura.
+En este repositorio se ubicarán los archivos de actividades y ejercicios de la asignatura.
 
 También está, como apoyo, el repositorio facilitado por el profesor Jose Arturo Mora Soto:
 
