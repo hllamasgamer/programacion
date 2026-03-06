@@ -37,6 +37,16 @@ void ListaEnteros::extrae (int indice) {
     // Hay que desplazar los elementos que están a partir de 'indice'+1 para ocupar el sitio de 'indice'.
     desplaza_abajo (indice + 1); 
     longitud --;
+
+    /*
+    int valor;
+    valor = elementos [indice];
+    desplaza_abajo (indice + 1);
+    longitud --;
+
+    return valor;
+
+    */
 }
 
 void ListaEnteros::desplaza_arriba (int indice) {
