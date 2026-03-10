@@ -15,5 +15,7 @@ int main(){
     }else {
         cout << "Suspennso" << endl;
     }
+        system("pause");
         return 0;
+        
     }
