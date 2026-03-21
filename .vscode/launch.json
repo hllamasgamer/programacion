@@ -2,13 +2,25 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug C (CodeLLDB)",
-            "type": "lldb",
+            "name": "C++ Windows: Debug",
+            "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
-            "cwd": "${workspaceFolder}",
-            "preLaunchTask": "C/C++: clang build active file"
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true, // Cambia a true si prefieres ventana externa
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
         }
     ]
 }
