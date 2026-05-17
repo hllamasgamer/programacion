@@ -1,10 +1,5 @@
-// BibliotecaVehiculos.cpp : Define las funciones de la biblioteca estática.
-//
+// BibliotecaVehiculos.cpp : Archivo reservado para funciones de la biblioteca estática.
+// Este archivo es opcional según el proyecto, se mantiene por convención estándar.
 
-#include "pch.h"
-#include "framework.h"
+// No incluye archivos precompilados (desactivado según instrucción #1)
 
-// TODO: Ejemplo de una función de biblioteca
-void fnBibliotecaVehiculos()
-{
-}
