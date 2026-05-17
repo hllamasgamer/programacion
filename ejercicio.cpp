@@ -2,20 +2,21 @@
 
 using namespace std;
 
+void alago(){
+    cout << "Kaori, te quiero mucho" << endl;
+}
+void alago2(){
+    cout << "Kaori, casate conmigo" << endl;
+}
+
 int main(){
-  float nota;
-    cout<<"Ingrese la nota del estudiante: ";
-    cin>>nota;
-    if (nota >= 9) {
-        cout << "Sobresaliente" << endl;
-    }else if (nota >= 7 && nota <= 9){
-        cout << "notable" << endl;
-    }else if (nota >= 5 && nota < 7){
-        cout << "Aprobado" << endl;
-    }else {
-        cout << "Suspennso" << endl;
-    }
-        system("pause");
-        return 0;
-        
-    }
+    
+    alago();
+    alago();
+    alago();
+    alago2();
+    cin.get();
+    return 0;
+    
+   
+}
