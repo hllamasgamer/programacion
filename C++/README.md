@@ -1,2 +1,2 @@
 # Repositorio de Programación Orientada a Objetos
-En este repositorio se ubicarán los archivos de actividades y ejercicios de la asignatura.
+En este repositorio se ubicarán los archivos de actividades 1 y 2
