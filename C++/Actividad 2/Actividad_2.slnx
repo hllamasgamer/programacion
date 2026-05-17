@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AppConsola/AppConsola.vcxproj" Id="ba67122c-0eb8-4102-a98c-bd5355ca2bd5" />
+  <Project Path="BibliotecaVehiculos/BibliotecaVehiculos.vcxproj" Id="0054fa4d-6957-43b7-bc34-e85fe7181370" />
+</Solution>
